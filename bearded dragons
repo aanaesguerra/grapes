@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<head>
+  <title>Bearded Dragons</title>
+  <style>
+    body {
+      text-align: center;
+      background: url("https://media1.tenor.com/images/17ba0a864a597facf4ec9608425c15b7/tenor.gif?itemid=8535930");
+      background-size: cover;
+      background-position: center;
+      color: purple;
+      font-family: cursive;
+    }
+    p {
+      font-size: 25px;
+    }
+    input {
+      border: 0;
+      padding: 6px;
+      font-size: 12px;
+      text-align: center;
+    }
+    input[type="submit"] {
+      background: red;
+      color: white;
+    }
+  </style>
+</head>
+<body>
+  <h1> Grapes </h>
+  <p> The average person eats 3.6kg’s of grapes a year. </p>
+  <p> That's about 6% of the average adult's weight </p>
+  <p> Or 7 to 10 bearded dragons </p>
+  <p> That's some cool stuff </p>
+</body>
